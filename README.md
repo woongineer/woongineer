@@ -1,4 +1,13 @@
-### Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Woongineer's%20Github&fontSize=50)
+
+## Hey, I'm Jaewoong 👋
+
+### About me
+
+- ⌚ I've been mainly working on Time Series Prediction
+- 🎓 Physics at ICL, Mathematical Science at UNIST
+- 🚀 Been many fields: Medicine, Advertisment & Robo-Advisor
+- 🥅 Goals: Be helpful colleague
 
 <!--
 **woongineer/woongineer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
