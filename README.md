@@ -4,7 +4,7 @@
 
 ### About me
 
-- 
+- 💼 Currently at Artificial Intelligence Research Institute(AIRI)
 - ⌚ Been mainly working on Time Series Prediction
 - 🎓 Physics at ICL, Mathematical Science at UNIST
 - 🚀 Area includes: Medicine, Advertisment & Robo-Advisor
