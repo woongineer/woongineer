@@ -6,8 +6,8 @@
 
 - 💼 Currently at Artificial Intelligence Research Institute(AIRI)
 - ⌚ Mainly on: Time Series Prediction
-- 🎓 Physics at ICL, Mathematical Science at UNIST
 - 🚀 Area includes: Medicine, Advertisment & Robo-Advisor
+- 🎓 Physics at ICL, Mathematical Science at UNIST
 - 🥅 Goals: Be helpful colleague
 
 ### Tech Stack
