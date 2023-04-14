@@ -5,7 +5,7 @@
 ### About me
 
 - 💼 Currently at Artificial Intelligence Research Institute(AIRI)
-- ⌚ Been mainly working on Time Series Prediction
+- ⌚ Mainly on: Time Series Prediction
 - 🎓 Physics at ICL, Mathematical Science at UNIST
 - 🚀 Area includes: Medicine, Advertisment & Robo-Advisor
 - 🥅 Goals: Be helpful colleague
@@ -21,6 +21,8 @@
   <img src="https://img.shields.io/badge/scikit-learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
+  <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=LaTeX&logoColor=white"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white"/>
 </p>
 
