@@ -1,14 +1,14 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=209BEA&height=300&section=header&text=Woongineer's%20Github&fontSize=50)
 
-## Hey, I'm Jaewoong 👋
+## Hey, It's me Jaewoong 👋
 
 ### About me
 
 - 💼 Currently at Artificial Intelligence Research Institute(AIRI)
 - ⌚ Mainly on: Time Series Prediction
-- 🚀 Area includes: Medicine, Advertisment & Robo-Advisor
+- 🚀 Area includes: Medicine, Advertisement & Robo-Advisor
 - 🎓 Physics at ICL, Mathematical Science at UNIST
-- 🥅 Goals: Be helpful colleague
+- 🥅 Goals: Be a helpful colleague
 
 ### Tech Stack
 <p>
