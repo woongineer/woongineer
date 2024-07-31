@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=209BEA&height=300&section=header&text=Woongineer's%20Github&fontSize=50)
 
-## Hey, It's me Jaewoong 👋
+## Hey, I'm Jaewoong 👋
 
 ### About me
 
